@@ -1,0 +1,10 @@
+
+
+<%
+    
+
+      
+            response.sendRedirect("dashboard.jsp");
+  
+
+%>
